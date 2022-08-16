@@ -1,5 +1,9 @@
 # blog-blog
 
+Miniature blog app. Made to learn Vue and refresh memory on JSON queries.
+
+
+
 ## Project setup
 ```
 npm install
